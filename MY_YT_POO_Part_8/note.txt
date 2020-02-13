@@ -1,0 +1,7 @@
+E1;math;10
+E1;java;11
+E1;html;10
+E1;php;10
+E1;Fr;10
+E1;Eng;10
+E1;Kappa;10
